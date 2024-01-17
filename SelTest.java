@@ -16,7 +16,7 @@ import org.openqa.selenium.support.ui.Select;
 
 import org.testng.Assert;
 
-public class SpiceJet {
+public class SelTest {
 
 public static void main(String[] args) {
 
